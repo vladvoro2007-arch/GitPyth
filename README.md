@@ -18,6 +18,6 @@
 import arrow
 print(arrow.now())
 ```
-<img width="2958" height="1840" alt="image" src="https://github.com/user-attachments/assets/2c96e2f6-624c-4389-b01e-6672702f1d4d" />
+
 
 
