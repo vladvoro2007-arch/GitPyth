@@ -17,3 +17,5 @@
 ```python
 import arrow
 print(arrow.now())
+
+<img width="2958" height="1840" alt="image" src="https://github.com/user-attachments/assets/98b40d4e-f2bb-458c-bdd3-2980408f0694" />
